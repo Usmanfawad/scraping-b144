@@ -1,0 +1,17 @@
+Get USERNAME = Div ID = "goToMember
+
+Whatsapp Icon = DIV REGEX = //div[starts-with(@id,'whatsapp')]
+The thing to get from the WhatsApp icon is the number
+Getting the onclick attribute
+Parsing the string:
+The string format is =
+event.stopPropagation();
+member_30000000733745498.GetWhatsappPhone();
+member_30000000733745498.memberCardClick('whatsappNumber',member_30000000733745498.CategoryName,memberPosition_30000000733745498);
+return false;
+
+Regex expression
+r'.*?\_(.*))'
+
+Scroll to the more results button
+Div ID = "moreResultsButton"
